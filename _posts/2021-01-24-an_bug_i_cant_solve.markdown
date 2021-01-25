@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "An Bug I Can't Solve"
-date:       2021-01-25 02:25:46 +0000
+title:      "An Issue I Can't Solve"
+date:       2021-01-24 21:25:46 -0500
 permalink:  an_bug_i_cant_solve
 ---
 
